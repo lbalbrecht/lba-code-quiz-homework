@@ -1,0 +1,17 @@
+.header{
+    display:inline;
+    margin-top:-200px;
+}
+
+#highscores{
+    float:left;
+}
+
+#timer{
+    /* float:right; */
+}
+
+.content{
+    /* text-align:center; */
+    margin-top:200px;
+}
