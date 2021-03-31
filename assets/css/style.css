@@ -1,6 +1,6 @@
 .header{
     display:inline;
-    margin-top:-200px;
+    /* margin-top:-200px; */
 }
 
 #highscores{
@@ -8,10 +8,16 @@
 }
 
 #timer{
-    /* float:right; */
+    float:right;
+    visibility:hidden;
+}
+
+#options{
+    visibility:hidden;
+
 }
 
 .content{
-    /* text-align:center; */
+    text-align:center;
     margin-top:200px;
 }
