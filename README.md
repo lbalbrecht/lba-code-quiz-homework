@@ -1,4 +1,4 @@
-# lba-code-quiz-homework
+# lba-coding-quiz
 
 ## User Story
 This app will allow the user to brush up on their knowledge with a short, multiple choice quiz.
